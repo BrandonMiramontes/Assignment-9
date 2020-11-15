@@ -1,0 +1,5 @@
+Function f prints the date you inputed while function 
+g prints the default values for the date. Im guessing this 
+takes place because the values from the input function are passed 
+to the f function but not the g function, which in turn makes function
+g print the values that where already given.
